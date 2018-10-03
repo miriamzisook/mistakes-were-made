@@ -5,7 +5,7 @@ image: <img class='postImg' src="/images/applecrispfloor.jpg" alt="I'm comic san
 ---
 Nothing says fall quite like apple crisp, especially apple crisp served outdoors. In this twist on a fall classic, I added the natural immune boosters dried leaves, dirt, and sand. Here’s the recipe:
 
-Ingredients:
+**Ingredients:**
    * 4-6 medium apples. 
    * 1 tbs. lemon juice. 
    * 1 stick of melted butter or coconut oil.  
@@ -15,7 +15,7 @@ Ingredients:
    * 1 c. rolled oats. 
    * 1 c. flour. 
 
-Steps:
+**Steps:**
 1. Preheat oven to 350°
 2. Locate a heavy, oven-safe pot with slippery handles
 3. Slice apples and add to pot
