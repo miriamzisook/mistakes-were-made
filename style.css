@@ -29,8 +29,8 @@ a {
 
 .postImg {
 	border-radius: 1.5vw;
-	width: 20vw;
-	height: 20vw;
+	width: 45vw;
+	height: 45vw;
 	object-fit: cover;
 	vertical-align: top;
 	
@@ -38,12 +38,12 @@ a {
 
 .postBlock {
 	padding:1vw;
-	height: 50vh;
+	height: 50vw;
 }
 
 .postContent{
-	width: 75%;
-	height: 45vh;
+	width: 45%;
+	height: 45vw;
 	padding-left: 2vw;
 	display: inline-block;
 	overflow-y:scroll;
