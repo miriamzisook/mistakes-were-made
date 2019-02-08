@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "title"
-image: <img class='postImg' src="/images/castiron.jpg" alt="broken cast iron dutch oven"/>
+image: <img class='postImg' src="/images/flannel_dress_cutting.jpg" alt=" "/>
 ---
