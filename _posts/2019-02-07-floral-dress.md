@@ -13,7 +13,7 @@ Fast forward to me making a dead simple dress that I've made at least twice befo
 
 I was so annoyed, and so resistant to letting such a "simple" and "easy" project have even more of my time that I needed to step away for a few days. I considered a zillion workarounds (add a drawstring? Add a bow?) but ultimately, I knew what needed to be done. I completely disassembled the bodice, and remade it 2 inches shorter. It looks so much better. (On the outside; the inside is a mess--and you know what? I don't care! All my respect to people who finish their seams with tenderness and care, but I just can't always be bothered) 
 
-There's something extra annoying about mistakes when you were expecting smooth sailing, but this served as a good reminder that even when I know what I'm doing, mistakes WILL be made. nd, even if that's the case, it couldn't hurt to slow down at the moments I most want to rush. 
+There's something extra annoying about mistakes when you were expecting smooth sailing, but this served as a good reminder that even when I know what I'm doing, mistakes WILL be made. And, even if that's the case, it couldn't hurt to slow down at the moments I most want to rush. 
 
 
 

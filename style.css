@@ -1,12 +1,12 @@
 
 ::-webkit-scrollbar {
   -webkit-appearance: none;
-  width: 10px;
+  width: 6px;
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: 5px;
-  background-color: darkRed;
+  border-radius: 3px;
+  background-color: #cccccc;
   -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
 }
 @font-face {
@@ -32,7 +32,7 @@ body {
 
 
 a {
-	color: chocolate;
+	color: #ed6663;
 }
 
 .postImg {
@@ -55,8 +55,8 @@ a {
 	padding-left: 2vw;
 	display: inline-block;
 	overflow-y:scroll;
-	background-color: floralWhite;
-	border-radius: 1.5vw;
+/*	background-color: floralWhite;
+*/	border-radius: 1.5vw;
 }
 .internalPostImg{
 	width: 20vw;
@@ -64,11 +64,12 @@ a {
 
 h1 {
 	font-family: "Comic Sans MS";
-	color: darkRed;
+	color: #6f9a8d;
 	text-align: center;
 	margin-bottom: 6px;
 	font-size: 42px;
 }
+
 
 h1:hover {
 	text-decoration: underline;
