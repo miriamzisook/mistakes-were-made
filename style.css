@@ -49,6 +49,10 @@ a {
 	height: 50vw;
 }
 
+.caption {
+	color: gray;
+	size: .75em;
+}
 .postContent{
 	width: 45%;
 	height: 45vw;

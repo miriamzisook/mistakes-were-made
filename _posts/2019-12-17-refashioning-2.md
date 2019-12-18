@@ -5,15 +5,15 @@ image: <img class='postImg' src="/images/Refashioning%20for%20Weight%20Gain%202%
 ---
 
 
-<< [**Previous Post: Change your clothes, Not Your Body**](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-1-Change-the-clothes-not-your-body-ea299554686846c9979e69e23e70e524)
+[**<< Previous Post: Change your clothes, Not Your Body**](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-1-Change-the-clothes-not-your-body-ea299554686846c9979e69e23e70e524)
 
-One way sewing boosts my confidence is that I can de-emphasize how I look and focus instead on how badass I feel wearing clothes I made all by myself. Of course, to grow and learn and get better at sewing means we're always reaching just a little further outside our comfort zone to nail the next challenge. And as we reach for greater and greater challenges, it turns out, just like we can't entirely control our bodies, we also can't entirely control the outcomes of our makes. 
+One way sewing boosts my confidence is that I can de-emphasize how I look and focus instead on how badass I feel wearing clothes I made all by myself. Of course, to grow and learn and get better at sewing (and anything else) means we're always reaching just a little further outside our comfort zone to nail the next challenge. And as we reach for greater and greater challenges, it turns out, just like we can't entirely control our bodies, we also can't entirely control the outcomes of our makes. 
 
-I thought remaking my dinosaur dress might be challenging, and expected to feel a little extra perfectionistic about something so sentimental, so I wanted a couple slam dunks to boost my confidence before I tackled it. So, I picked 2 things to start with I assumed would be smooth sailing, and while one was the success  I was hoping for, the other was a huge bummer. 
+I thought remaking my dinosaur dress might be emotionally challenging, and expected to feel a little extra perfectionistic about something so sentimental, so I wanted a couple slam dunks to boost my confidence before I tackled it. So, I picked 2 things to start with I assumed would be smooth sailing. While one was the success  I was hoping for, the other was a huge bummer. 
 
 ### A successful refashion of my down vest
 
-For my first refashion in this series I decided to tackle adding stretch panels to my old favorite down vest, now very snug in the waist and hips, to make it wearable again. I picked it to be first because I had a pretty straightforward plan for it, and wanted to start with a sure fire success. 
+For my first refashion in this series I decided to tackle adding stretch panels to my old favorite down vest, now very snug in the waist and hips, to make it wearable again. I picked it first because I had a pretty straightforward plan for it, and wanted to start with a sure fire success. 
 
 <img class='internalPostImg' src="/images/Refashioning%20for%20Weight%20Gain%202%20Sometimes%20our%20craft/IMG_1825.jpg" alt=""/>
 
@@ -31,7 +31,7 @@ After that I cut two identical trapezoid shaped panels out of the ponté to add 
 
 After I added the panels I decided to use the ponté to bias bind (can you call it bias binding when it's knit? Is it called something else? I have no idea) the arms and waist. It ended up coming together really nicely, and I think actually looks pretty covert, like it may have been designed that way. 
 
-I've worn that vest many, many times since I refashioned it, and it feels like a solid success. When I wear it I feel like it's a tangible reminder I can turn to when I have a negative thought about my body, to remind me of my commitment to make peace with body change. 
+I've worn that vest many, many times since I refashioned it, and it feels like a solid success. When I wear it I feel like it's a tangible reminder I can show myself compassion when I have a negative thought about my body, to remind me of my commitment to make peace with body change. 
 
 ### A failed refashion of my me-made jeans
 
@@ -59,4 +59,4 @@ Finishing something and having it come out as you hoped, like my vest did, is a 
 
 At this point in the project I realized that I dove into this project to take control of how I was feeling about my body. I know I can't control my body's shape or size, but I thought I could use sewing to take control of how I react to it. I discovered instead that sometimes the results of our crafts defy our control as much as our bodies do. 
 
-[**Next Post: Choosing what to care about and when to stop](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-4-Letting-Go-of-Control-c6b12880c8d141b98c5a8500d9c37510) >>**
+[**>> Next Post: Choosing what to care about and when to stop**](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-4-Letting-Go-of-Control-c6b12880c8d141b98c5a8500d9c37510) 
