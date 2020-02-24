@@ -10,6 +10,8 @@ A few years ago, I made my mom a scarf out of a beautiful piece of Liberty of Lo
 
 For the last few years, a small remnant of that fabric has been sitting in my scrap pile, practically radioactive in its symbolism of yearning and futility. I haven’t been able to use it, and I haven’t been able to throw it away. As the years have gone by my relationship with my mom has broken down further and further, to the point where I allow her practically no access to me. Still, this little scrap of fabric is just sitting there, daring me to find a way to make something with it. 
 
+<!--more-->
+
 <img src='/images/scarfFabric.jpg' class='internalPostImg' alt="aseveral rolled up scraps of colorful fabric">
 <img src='/images/scarfScrapPile.jpg' class='internalPostImg' alt="a swatch of bright pink fabric with multicolor printed pomegranates on it">
 

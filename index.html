@@ -1,20 +1,24 @@
 ---
 layout: homepageTemplate
 ---
-
-{% for post in site.posts %}
-<div class='postBlock'>
-<h3><a href="{{ post.url }}">{{ post.title }}</a> | {{ post.date | date: "%m.%d.%Y" }}</h3>
-{{ post.image}}
-<div class='postContent'>{{ post.content | markdown}}</div>
+<div class ="post-previews"> 
+	{% for post in site.posts %}
+	<div class='postBlock'>
+	<h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+	<h4>{{ post.date | date: "%m.%d.%Y" }}</h4>
+	{{ post.image}}
+	<div class='postContent'>{{ post.excerpt | markdown}}</div>
+	<a href="{{ post.url }}">read more...</a>
+	</div>
+	{% endfor %}
 </div>
-{% endfor %}
 
-<h3 style="display:block;">Post Index</h3>
-<ul>
-  {% for post in site.posts reversed %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%m.%d.%Y"}}
-    </li>
-  {% endfor %}
-</ul>
+<div class="post-list">
+	<h3>Posts...</h3>
+	<ul>
+	  {% for post in site.posts reversed %}
+	    <li><a href="{{ post.url}} "> {{post.title}} </a></li>
+	  {% endfor %}
+	</ul>
+</div>
+

@@ -3,13 +3,11 @@ layout: post
 title:  "Refashioning for Weight Gain 2: Sometimes our crafts defy our control as much as our bodies do"
 image: <img class='postImg' src="/images/Refashioning%20for%20Weight%20Gain%202%20Sometimes%20our%20craft/IMG_1838.jpg" alt="close up of a brown puffy vest with a brass snap on the pocket"/>
 ---
-
-
-[**<< Previous Post: Change your clothes, Not Your Body**](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-1-Change-the-clothes-not-your-body-ea299554686846c9979e69e23e70e524)
-
 One way sewing boosts my confidence is that I can de-emphasize how I look and focus instead on how badass I feel wearing clothes I made all by myself. Of course, to grow and learn and get better at sewing (and anything else) means we're always reaching just a little further outside our comfort zone to nail the next challenge. And as we reach for greater and greater challenges, it turns out, just like we can't entirely control our bodies, we also can't entirely control the outcomes of our makes. 
 
 I thought remaking my dinosaur dress might be emotionally challenging, and expected to feel a little extra perfectionistic about something so sentimental, so I wanted a couple slam dunks to boost my confidence before I tackled it. So, I picked 2 things to start with I assumed would be smooth sailing. While one was the success  I was hoping for, the other was a huge bummer. 
+
+<!--more-->
 
 ### A successful refashion of my down vest
 

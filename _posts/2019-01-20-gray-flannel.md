@@ -8,7 +8,9 @@ Last fall I was a bit more adventurous in my sewing, foraying into knits, linger
 
 I laid out the pattern, and carefully checked, double cheked and triple checked that I had all the right pieces to combine the patterns successfully (I did NOT want a repeat of [this debacle](http://127.0.0.1:4000/2018/09/26/theres-a-hole-in-my-dress.html), which all began with a very confusing Archer + Alder mashup). Naturally, mistakes were made. This time, I bought JUST the right amount of fabric. As in, with all the pieces laid out it was clear I would not have enough material to re cut any pieces if I messed up. I know myself, so I knew to expect some trouble along the way. Now I also knew that I couldn't afford to be careless, or I'd run out of material. No pressure. Oh, and also, the right and wrong sides of thwe fabric were nearly impossible to tell apart, so I knew I'd be scrutinizing every single step to make sure I had the right set up. 
 
-Turns out, when I'm extremely careful, I risk going around the bend back to careless. With my attention absolutely laser focused on checking the right vs. wrong sides of the fabric over and over, I was not going to let a detail get by me. That, my friends, is how without letting any tiny details get by, I nearly made a dress with 2 left sides 🤣.  
+Turns out, when I'm extremely careful, I risk going around the bend back to careless. With my attention absolutely laser focused on checking the right vs. wrong sides of the fabric over and over, I was not going to let a detail get by me. That, my friends, is how without letting any tiny details get by, I nearly made a dress with 2 left sides 🤣. 
+
+<!--more--> 
 
 <img class='internalPostImg' src="/images/flannel_dress_2_left_sides.jpg" alt="2 pieces of a dress laid on a brightly colored bedspread. Both are the same shape, because both are left sides of a button down dress"/>
 

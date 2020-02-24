@@ -8,6 +8,8 @@ I consider myself a competent baker, but there are 2 things I consistently make 
 
 Fast forward to me making a dead simple dress that I've made at least twice before, and completely screwing it up. First, I was lazy at the moment of cutting the pattern, and didn't check that I was using the right marks for where to cut the bodice (the dress is adapted from a shirt pattern, and to make it I cut the bodice horizontally about halfway down). Next, I forgot to fit the dress between basting together the pieces and topstitching them (a moment when it still would have been relatively easy to backtrack). I didn't notice the waistline was a full 2 inches from where it was supposed to be until I was almost done. To make matters worse, I was cutting too quickly with my rotary cutter and a clipped a little hole right smack in the middle of the skirt ([File under: There's another %$#@& hole in my dress?!](https://jolly-euler-5e7006.netlify.com/2018/09/26/theres-a-hole-in-my-dress.html)). This one I can live with--it's barely visible, and I did a cute visible mend of the word "oops" on there. 
 
+<!--more-->
+
 <img class='internalPostImg' src="/images/oopsdress.jpg" alt="a gray floral print fabric with a the word oops embroidered on it in yellow"/> 
 <img class='internalPostImg' src="/images/floral-dress-patch.jpeg" alt="a gray floral print fabric's wrong side with a small patch of the same fabric adhered to it"/>
 

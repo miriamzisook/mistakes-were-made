@@ -9,14 +9,30 @@
   background-color: #cccccc;
   -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
 }
+
+
+@media (min-width: 1000px)
+{
+	.post-previews {
+		display: inline-block;
+		width: 60vw;
+	}
+
+	.post-list{
+		float: right;
+		width: 30vw;
+	}
+
+	.single-post {
+		padding-left: 15vw;
+		padding-right: 15vw;
+	}
+}
+
+
 @font-face {
     font-family: inconsolata;
     src: url(sansation_light.woff);
-}
-
-.full-width-page {
-	padding-left: 20%;
-	padding-right: 20%;
 }
 
 
@@ -32,38 +48,38 @@ body {
 
 
 a {
-	color: #ed6663;
+	color: #6f9a8d;
+}
+
+.needle-and-thread {
+	padding-bottom: 2em;
 }
 
 .postImg {
 	border-radius: 1.5vw;
-	width: 45vw;
-	height: 45vw;
+	width: 100%;
+	/*height: 45vw;*/
 	object-fit: cover;
-	vertical-align: top;
-	
+/*	vertical-align: top;
+*/	
 }
 
-.postBlock {
-	padding:1vw;
-	height: 50vw;
-}
 
 .caption {
 	color: gray;
 	size: .75em;
 }
 .postContent{
-	width: 45%;
+	/*width: 45%;
 	height: 45vw;
 	padding-left: 2vw;
 	display: inline-block;
 	overflow-y:scroll;
-/*	background-color: floralWhite;
-*/	border-radius: 1.5vw;
+	background-color: floralWhite;
+	border-radius: 1.5vw; */
 }
 .internalPostImg{
-	width: 20vw;
+	width: 100%;
 }
 
 h1 {
@@ -71,7 +87,8 @@ h1 {
 	color: #6f9a8d;
 	text-align: center;
 	margin-bottom: 6px;
-	font-size: 42px;
+	font-size: 4.5em;
+	padding: 1em;
 }
 
 
@@ -81,9 +98,34 @@ h1:hover {
 
 h2 {
 	text-align: center;
-	font-size: 16px;
-	margin-top:2vw;
-	margin-bottom:1vw;
-	font-weight:normal;
+	font-size: 1.5em;
+	margin-bottom: 2em;
 
+}
+
+.back {
+	text-decoration:none !important;
+}
+
+h3 {
+	text-transform: uppercase;
+	text-decoration:none !important;
+	color: #ed6663;
+	text-align: center;
+	font-size: 3em;
+}
+
+h3 a {
+	text-decoration:none !important;
+	color: #ed6663;
+}
+
+
+
+
+
+
+h4 {
+	text-align: center;
+	font-size: 2em;
 }

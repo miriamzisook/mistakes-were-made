@@ -15,6 +15,8 @@ And even beneath all that I knew an even sadder truth: I didn't even like my bod
 
 I needed to find a new way to respond when I encountered my changed body. If I couldn't control my body, I figured I could at least use my sewing skills to exert more control over how I dress it, and I definitely didn't want to have too-small clothes hanging around in my closet making me feel bad. 
 
+<!--more-->
+
 <img src="images/dinoDress.jpg" class="internalPostImg"/>
 
 In the pile of too small things was one of my first and favorite me-made dresses: my beloved dinosaur dress. When I think about how sewing has impacted my body image and self esteem, I think back to a shabbat dinner where I wore this dress, shortly after I made it. I got a number of compliments on the dress, and responded repeatedly with "thanks, I made it." That was the first time that I felt a boost to my self-esteem and confidence, not because my body looked different, or because what I was wearing was especially flattering or especially fashionable, but because I'd made it and it was uniquely and delightfully mine. This dress is symbolic of the beginning of my love for sewing and the origin of my understanding that sewing could shift how I feel about my body. 

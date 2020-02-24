@@ -4,9 +4,9 @@ title:  "Refashioning for weight gain 4: 9 Ways to refashion a too-tight dress"
 image: <img class='postImg' src="/images/refashioningSquare2.jpg" alt=""/>
 ---
 
-**<< [Previous Post: Choosing what to care about and when to stop](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-3-Choosing-what-to-Care-about-and-when-to-stop-c6b12880c8d141b98c5a8500d9c37510)** 
-
 In my last few posts I've talked about how [refashioning can support our commitment to change our clothes to fit our bodies](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-1-Change-your-clothes-not-your-body-ea299554686846c9979e69e23e70e524), not the other way around. I've also explored how challenging it can be to let go of the control we desire [when a project doesn't go as we hoped](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-2-Sometimes-our-crafts-defy-our-control-as-much-as-our-bodies-do-9f81f834163e414496d68636f2322177), and how a sewing practice can help us learn to listen to our own [voices and priorities when making decisions](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-3-Choosing-what-to-Care-about-and-when-to-stop-c6b12880c8d141b98c5a8500d9c37510). If, despite my mixed results, you feel inspired to try to refashion something that's too small for you, I am here to share some advice from the process I learned along the way.  
+
+<!--more-->
 
 ### Get Started with Intention
 

@@ -3,15 +3,11 @@ layout: post
 title:  "Refashioning for Weight Gain 3: Choosing what to care about and when to stop"
 image: <img class='postImg' src="/images/refashioning3/IMG_1884.jpg" alt=""/>
 ---
-
-<< [**Previous post: Sometimes our crafts defy our control as much as our bodies do**](https://www.notion.so/powderhouse/Refashioning-for-Weight-Gain-3-You-win-some-you-lose-some-9f81f834163e414496d68636f2322177)
-
+I was thinking about control when I stepped back to my sewing machine to tackle my dinosaur dress. [I've written about](http://pos.miriamzisook.com/daisyChain.html) how sewing helped me shift how I feel about my body, the realization I could make clothes that fit my body instead of making my body fit my clothes. But, when I pulled a me-made out from my closet and found it too small for the first time, I realized the down side. Throwing away a shitty dress from target when I've gained weight feels crummy, but no longer fitting into something I spent hours making feels so much worse. Rather than helping me let go of control over my body, in this moment sewing was allowing me to reinforce my desire for control in another way. 
+<!--more-->
 <img src="/images/refashioning3/IMG_1456.jpg" class="internalPostImg"/>
 
 <img src="/images/refashioning3/IMG_1866.jpg" class="internalPostImg"/>
-
-
-I was thinking about control when I stepped back to my sewing machine to tackle my dinosaur dress. [I've written about](http://pos.miriamzisook.com/daisyChain.html) how sewing helped me shift how I feel about my body, the realization I could make clothes that fit my body instead of making my body fit my clothes. But, when I pulled a me-made out from my closet and found it too small for the first time, I realized the down side. Throwing away a shitty dress from target when I've gained weight feels crummy, but no longer fitting into something I spent hours making feels so much worse. Rather than helping me let go of control over my body, in this moment sewing was allowing me to reinforce my desire for control in another way. 
 
 I'd tried shifting that desire for control from my body to my refashions, but that didn't end up going so great either. Still feeling a little defeated from the jeans failure, I considered abandoning this dress for now. Thinking about all that this dress represents for me gave me pause. I may not be able to control the outcome, but I still felt like this dress deserved a second chance. 
 
